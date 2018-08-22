@@ -11,7 +11,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>gmall-interface</artifactId>
-
+    <!--添加依赖  gmall-bean-->
     <dependencies>
         <dependency>
             <groupId>com.atguigu.gmall</groupId>
